@@ -83,3 +83,7 @@ If you have anything to add, please make a pull request!
 
 - [EEVBlog Forums](https://www.eevblog.com/forum/index.php) Lots of very experienced engineers on this one
 - [r/askelectronics](https://old.reddit.com/r/AskElectronics/) A great entrypoint to electronics subreddits
+
+## Interviews 
+- [Monty Choy](https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions) Lots of excellent practice interview questions
+- [EEVBlog Video](https://youtu.be/YlYM85tsi8o?si=uDLd_4wxZ7jaqHcu) An excellent video on interviewing for EEE
